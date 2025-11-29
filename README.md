@@ -4,11 +4,12 @@ End-to-end Power BI analytics project built on 4 years of e-commerce sales (1M+ 
 This dashboard uncovers insights across sales performance, customer behavior, payment patterns, and operational efficiency.
 Includes AI-style drilldowns, dynamic tooltips, and a clean star-schema model — designed for business leaders and analysts.
 
-📥 Download Dashboard File (.PBIX)
+## 📥 Download Dashboard File (PBIX)
 
-Your file is large (52 MB), so it's stored on Google Drive:
+The full Power BI project file (≈ 52 MB) is available via Google Drive:
 
-👉 Download the Power BI Dashboard (.pbix)
+[Download the Power BI Dashboard (.pbix)](https://drive.google.com/file/d/130SxbAt7rCiTB5dW8ksxVdTTfctA8lq7/view?usp=sharing)
+
 
 🚀 Project Highlights
 
