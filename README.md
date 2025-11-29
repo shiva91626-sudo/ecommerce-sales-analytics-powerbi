@@ -10,6 +10,16 @@ The full Power BI project file (≈ 52 MB) is available via Google Drive:
 
 [Download the Power BI Dashboard (.pbix)](https://drive.google.com/file/d/130SxbAt7rCiTB5dW8ksxVdTTfctA8lq7/view?usp=sharing)
 
+Dashboard Screenshots:
+<img width="1303" height="733" alt="overview" src="https://github.com/user-attachments/assets/29e39570-7225-457c-a840-1e582f8b576b" />
+<img width="1305" height="734" alt="driver_tree" src="https://github.com/user-attachments/assets/14ee6fef-0730-4247-98d4-a631da5133ad" />
+<img width="1302" height="732" alt="state_tooltip" src="https://github.com/user-attachments/assets/855636d0-fd1f-4a51-977e-61fdc619286f" />
+<img width="1304" height="734" alt="category_tooltip" src="https://github.com/user-attachments/assets/56edc098-4f54-4c12-b64f-995de45b067d" />
+
+
+
+
+
 
 🚀 Project Highlights
 
