@@ -33,7 +33,7 @@ Sales forecasting & YoY growth visualization
 
 State-wise, category-wise, payment-wise deep insights
 
-Operational KPIs: Delivery, Returns, Cancellations
+Operational KPIs: Total Sales, Total profit, YoY Groth
 
 Clean star-schema model with optimized DAX measures
 
